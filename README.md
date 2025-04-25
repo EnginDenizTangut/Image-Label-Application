@@ -78,12 +78,6 @@ tree 0.682000 0.421000 0.100000 0.200000
 
 ---
 
-## 📸 Screenshot
-
-*Feel free to add a screenshot here of your application in use.*
-
----
-
 ## 📝 Notes
 
 - All selected images and annotations are stored inside the `output/` folder.  
